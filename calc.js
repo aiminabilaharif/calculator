@@ -10,7 +10,7 @@ let multiplication = function(x, y) {
 let division = function(x, y) {
     return x / y;
 }
-console.log(addition(20, 10))
-console.log(subtraction(20, 10))
-console.log(multiplication(20, 10))
-console.log(division(20, 10))
+console.log("Addition:", addition(20, 10))
+console.log("Substraction:", subtraction(20, 10))
+console.log("Multiplication:", multiplication(20, 10))
+console.log("Division:", division(20, 10))
